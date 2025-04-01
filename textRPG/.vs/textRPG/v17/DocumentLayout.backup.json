@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\vs\\textRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\scenes\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\scenes\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\scenes\\walkietalkie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\scenes\\walkietalkie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\scenes\\chemistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\scenes\\chemistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\scenes\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\scenes\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\scenes\\inside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\scenes\\inside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\scenes\\home4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\scenes\\home4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\scenes\\home3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\scenes\\home3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\scenes\\scenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\scenes\\scenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\scenes\\home2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\scenes\\home2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\scenes\\home2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\scenes\\home2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\scenes\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\scenes\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|f:\\vs\\textrpg\\textrpg\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E480BF7-7B22-44AF-B9B6-26C217DD5846}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Scenes\\Home.cs",
+              "RelativeDocumentMoniker": "textRPG\\Scenes\\Home.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Scenes\\Home.cs*",
+              "RelativeToolTip": "textRPG\\Scenes\\Home.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:38:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inside.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Scenes\\Inside.cs",
+              "RelativeDocumentMoniker": "textRPG\\Scenes\\Inside.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Scenes\\Inside.cs",
+              "RelativeToolTip": "textRPG\\Scenes\\Inside.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:16:58.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home4.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Scenes\\Home4.cs",
+              "RelativeDocumentMoniker": "textRPG\\Scenes\\Home4.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Scenes\\Home4.cs",
+              "RelativeToolTip": "textRPG\\Scenes\\Home4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:15:56.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WalkieTalkie.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Scenes\\WalkieTalkie.cs",
+              "RelativeDocumentMoniker": "textRPG\\Scenes\\WalkieTalkie.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Scenes\\WalkieTalkie.cs",
+              "RelativeToolTip": "textRPG\\Scenes\\WalkieTalkie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:14:52.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chemistry.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Scenes\\Chemistry.cs",
+              "RelativeDocumentMoniker": "textRPG\\Scenes\\Chemistry.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Scenes\\Chemistry.cs",
+              "RelativeToolTip": "textRPG\\Scenes\\Chemistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:14:31.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home3.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Scenes\\Home3.cs",
+              "RelativeDocumentMoniker": "textRPG\\Scenes\\Home3.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Scenes\\Home3.cs",
+              "RelativeToolTip": "textRPG\\Scenes\\Home3.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:15:45.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gate.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Scenes\\Gate.cs",
+              "RelativeDocumentMoniker": "textRPG\\Scenes\\Gate.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Scenes\\Gate.cs",
+              "RelativeToolTip": "textRPG\\Scenes\\Gate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:14:49.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Game.cs",
+              "RelativeDocumentMoniker": "textRPG\\Game.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Game.cs",
+              "RelativeToolTip": "textRPG\\Game.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAApwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:22:51.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home2_1.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Scenes\\Home2_1.cs",
+              "RelativeDocumentMoniker": "textRPG\\Scenes\\Home2_1.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Scenes\\Home2_1.cs",
+              "RelativeToolTip": "textRPG\\Scenes\\Home2_1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:32:00.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home2.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Scenes\\Home2.cs",
+              "RelativeDocumentMoniker": "textRPG\\Scenes\\Home2.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Scenes\\Home2.cs",
+              "RelativeToolTip": "textRPG\\Scenes\\Home2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:57:07.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Title.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Scenes\\Title.cs",
+              "RelativeDocumentMoniker": "textRPG\\Scenes\\Title.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Scenes\\Title.cs",
+              "RelativeToolTip": "textRPG\\Scenes\\Title.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:40:25.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Util.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Util.cs",
+              "RelativeDocumentMoniker": "textRPG\\Util.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Util.cs",
+              "RelativeToolTip": "textRPG\\Util.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:22:58.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scenes.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Scenes\\Scenes.cs",
+              "RelativeDocumentMoniker": "textRPG\\Scenes\\Scenes.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Scenes\\Scenes.cs",
+              "RelativeToolTip": "textRPG\\Scenes\\Scenes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:22:39.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Player.cs",
+              "RelativeDocumentMoniker": "textRPG\\Player.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Player.cs",
+              "RelativeToolTip": "textRPG\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:21:50.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\vs\\textRPG\\textRPG\\Program.cs",
+              "RelativeDocumentMoniker": "textRPG\\Program.cs",
+              "ToolTip": "F:\\vs\\textRPG\\textRPG\\Program.cs",
+              "RelativeToolTip": "textRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:12:59.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
